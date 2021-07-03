@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 class gfg {
-    /* Function to get no of set bits in binary
-representation of passed binary no. */
 public:
     unsigned int countSetBits(int n)
     {
